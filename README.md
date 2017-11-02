@@ -1,5 +1,5 @@
-# Stewart Platform
-Gough-stewart platform developed for replicating anatomical surgical environments for the da Vinci surgical robot.
+# Stewart Platform Research Kit (SPRK)
+Stewart Platform Reseach Kit (SPRK) was developed for physically replicating anatomical surgical environments for the da Vinci research kit (DVRK) setup.
 
 # Components
 6 Dynamixel XL-320 servo motors
