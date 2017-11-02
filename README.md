@@ -1,7 +1,9 @@
 # Stewart Platform Research Kit (SPRK)
 Stewart Platform Reseach Kit (SPRK) was developed for physically replicating anatomical surgical environments for the da Vinci research kit (DVRK) setup.
 
-![alt text](https://raw.githubusercontent.com/patelvatsal/stewart_platform/master/images/SPRK2%20with%20DVRK.JPG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patelvatsal/stewart_platform/master/images/SPRK2%20with%20DVRK.JPG" width="400">
+</p>
 
 # Components
 - Dynamixel XL-320 servo motors    (x6)
